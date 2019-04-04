@@ -72,6 +72,7 @@ extras components for the deprecated-numpy package.
 Summary: legacypython components for the deprecated-numpy package.
 Group: Default
 Requires: python-core
+Provides: numpy-legacypython
 
 %description legacypython
 legacypython components for the deprecated-numpy package.
